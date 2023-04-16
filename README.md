@@ -1,5 +1,5 @@
-# Hello 👋
-# I'm Maurizio Mambrini
+Hello 👋 I'm Maurizio Mambrini
+============================
 UX/UI designer and developer
 
 ----------------------------
