@@ -1,8 +1,6 @@
 Hello 👋 I'm Maurizio Mambrini
 ============================
-UX/UI designer and developer
-
-----------------------------
+## UX/UI designer and developer
 
 My mom says I make apps, the grandma that I work on computers, while my dad thinks I enjoy all day.
 All three are partly right: during my day I spend much time at computer, part of my work consist on make apps e often I enjoy on doing it.
