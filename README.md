@@ -18,7 +18,7 @@ As a UI developer, I write HTML, CSS and JavaScript, to create a smooth and cons
 *   🚀  I'm currently working on [Snowit](http://snowit.ki)
 
 ### Development skills
-<a target="_blank" rel="noreferrer"><img src="https://github.com/mauriziomambrini/icons/css.svg" width="36" height="36" alt="CSS" /></a>
+<a target="_blank" rel="noreferrer"><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/css.svg" width="36" height="36" alt="CSS" /></a>
 
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
