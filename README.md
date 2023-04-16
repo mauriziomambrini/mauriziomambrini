@@ -18,19 +18,19 @@ As a UI developer, I write HTML, CSS and JavaScript, to create a smooth and cons
 *   I'm currently working on [Snowit](http://snowit.ski)
 
 ### Development skills
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/html.svg" width="36" height="36" alt="HTML" title="HTML"/>
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/css.svg" width="36" height="36" alt="CSS" title="CSS" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sass.svg" width="36" height="36" alt="SASS" title="SASS" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/react.svg" width="36" height="36" alt="React JS / React native" title="React JS / React native" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/javascript.svg" width="36" height="36" alt="Javascript" title="Javascript" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/nextjs.svg" width="36" height="36" alt="Next JS" title="Next JS" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/gatsby.svg" width="36" height="36" alt="Gatsby" title="Gatsby" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/php.svg" width="36" height="36" alt="PHP" title="PHP" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/wordpress.svg" width="36" height="36" alt="WordPress" title="WordPress" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/graphql.svg" width="36" height="36" alt="GraphQL" title="GraphQL" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/git.svg" width="36" height="36" alt="Git" title="Git" />
-<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/datocms.svg" width="36" height="36" alt="Dato CMS" title="Dato CMS" />
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/html.svg" width="36" height="36" alt="HTML" title="HTML"/></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/css.svg" width="36" height="36" alt="CSS" title="CSS" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sass.svg" width="36" height="36" alt="SASS" title="SASS" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/react.svg" width="36" height="36" alt="React JS / React native" title="React JS / React native" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/javascript.svg" width="36" height="36" alt="Javascript" title="Javascript" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/nextjs.svg" width="36" height="36" alt="Next JS" title="Next JS" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/gatsby.svg" width="36" height="36" alt="Gatsby" title="Gatsby" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/php.svg" width="36" height="36" alt="PHP" title="PHP" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/wordpress.svg" width="36" height="36" alt="WordPress" title="WordPress" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/graphql.svg" width="36" height="36" alt="GraphQL" title="GraphQL" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/git.svg" width="36" height="36" alt="Git" title="Git" /></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/datocms.svg" width="36" height="36" alt="Dato CMS" title="Dato CMS" /></a>
 
 ### Design skills
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
