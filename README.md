@@ -4,11 +4,11 @@ Hello 👋 I'm Maurizio Mambrini
 
 My mom says I make apps, the grandma that I work on computers, while my dad thinks I enjoy all day.
 All three are partly right: during my day I spend much time at computer, part of my work consist on make apps e often I enjoy on doing it.
-But what I really do every day is design and develop interfaces to make people life easier.
+But what I really do every day is **design and develop** interfaces to make people life easier.
 
-As a UX/UI designer, I transform complex operations into easy-tounderstand flows for users. I create libraries of components, design systems, layouts and interfaces to create a coherent user experience.
+As a **UX/UI designer**, I transform complex operations into easy-tounderstand flows for users. I create libraries of components, design systems, layouts and interfaces to create a coherent user experience.
 
-As a UI developer, I write HTML, CSS and JavaScript, to create a smooth and consistent experience across devices, transforming designs into component libraries and web/app interfaces
+As a **UI developer**, I write HTML, CSS and JavaScript, to create a smooth and consistent experience across devices, transforming designs into component libraries and web/app interfaces
 
 ----------------------------
 
