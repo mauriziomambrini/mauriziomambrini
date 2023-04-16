@@ -44,7 +44,6 @@ As a UI developer, I write HTML, CSS and JavaScript, to create a smooth and cons
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/iadesign.svg" width="40" height="40" alt="IA design" title="IA design" /></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/figma.svg" width="40" height="40" alt="Figma" title="Figma" /></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sketch.svg" width="40" height="40" alt="Sketch" title="Sketch" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sketch.svg" width="40" height="40" alt="Sketch" title="Sketch" /></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/designer.svg" width="40" height="40" alt="Affinity Designer" title="Affinty Designer" /></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/publisher.svg" width="40" height="40" alt="Affinity Publisher" title="Affinty Publisher" /></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/photo.svg" width="40" height="40" alt="Affinity Photo" title="Affinty Photo" /></a>
