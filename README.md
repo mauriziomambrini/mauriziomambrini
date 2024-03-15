@@ -21,36 +21,39 @@ As **UI developer**, I apply these same principles by writing code to build flui
 ----------------------------
 
 ### Development skills
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/html.svg" width="40" height="40" alt="HTML" title="HTML"/></a>
-
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/css.svg" width="40" height="40" alt="CSS" title="CSS" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sass.svg" width="40" height="40" alt="SASS" title="SASS" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/react.svg" width="40" height="40" alt="React JS / React native" title="React JS / React native" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/javascript.svg" width="40" height="40" alt="Javascript" title="Javascript" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/nextjs.svg" width="40" height="40" alt="Next JS" title="Next JS" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/gatsby.svg" width="40" height="40" alt="Gatsby" title="Gatsby" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/php.svg" width="40" height="40" alt="PHP" title="PHP" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/wordpress.svg" width="40" height="40" alt="WordPress" title="WordPress" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/graphql.svg" width="40" height="40" alt="GraphQL" title="GraphQL" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/git.svg" width="40" height="40" alt="Git" title="Git" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/datocms.svg" width="40" height="40" alt="Dato CMS" title="Dato CMS" /></a>
+<p align="left">
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/html.svg" width="40" height="40" alt="HTML" title="HTML"/>
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/css.svg" width="40" height="40" alt="CSS" title="CSS" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sass.svg" width="40" height="40" alt="SASS" title="SASS" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/react.svg" width="40" height="40" alt="React JS / React native" title="React JS / React native" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/javascript.svg" width="40" height="40" alt="Javascript" title="Javascript" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/nextjs.svg" width="40" height="40" alt="Next JS" title="Next JS" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/gatsby.svg" width="40" height="40" alt="Gatsby" title="Gatsby" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/php.svg" width="40" height="40" alt="PHP" title="PHP" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/wordpress.svg" width="40" height="40" alt="WordPress" title="WordPress" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/graphql.svg" width="40" height="40" alt="GraphQL" title="GraphQL" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/git.svg" width="40" height="40" alt="Git" title="Git" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/datocms.svg" width="40" height="40" alt="Dato CMS" title="Dato CMS" />
+</p>
 
 ----------------------------
 
 ### Design skills
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/uxdesign.svg" width="40" height="40" alt="UX design" title="UX design" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/uidesisgn.svg" width="40" height="40" alt="UI design" title="UI design" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/iadesign.svg" width="40" height="40" alt="IA design" title="IA design" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/figma.svg" width="40" height="40" alt="Figma" title="Figma" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sketch.svg" width="40" height="40" alt="Sketch" title="Sketch" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/designer.svg" width="40" height="40" alt="Affinity Designer" title="Affinty Designer" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/publisher.svg" width="40" height="40" alt="Affinity Publisher" title="Affinty Publisher" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/photo.svg" width="40" height="40" alt="Affinity Photo" title="Affinty Photo" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/illustrator.svg" width="40" height="40" alt="Adobe Illustrator" title="Adobe Illustrator" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/indesign.svg" width="40" height="40" alt="Adobe InDesign" title="Adobe InDesign" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/photoshop.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/userresearch.svg" width="40" height="40" alt="User research" title="User research" /></a>
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/usetest.svg" width="40" height="40" alt="User test" title="User test" /></a>
+<p align="left">
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/uxdesign.svg" width="40" height="40" alt="UX design" title="UX design" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/uidesisgn.svg" width="40" height="40" alt="UI design" title="UI design" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/iadesign.svg" width="40" height="40" alt="IA design" title="IA design" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/figma.svg" width="40" height="40" alt="Figma" title="Figma" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sketch.svg" width="40" height="40" alt="Sketch" title="Sketch" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/designer.svg" width="40" height="40" alt="Affinity Designer" title="Affinty Designer" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/publisher.svg" width="40" height="40" alt="Affinity Publisher" title="Affinty Publisher" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/photo.svg" width="40" height="40" alt="Affinity Photo" title="Affinty Photo" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/illustrator.svg" width="40" height="40" alt="Adobe Illustrator" title="Adobe Illustrator" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/indesign.svg" width="40" height="40" alt="Adobe InDesign" title="Adobe InDesign" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/photoshop.svg" width="40" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/userresearch.svg" width="40" height="40" alt="User research" title="User research" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/usetest.svg" width="40" height="40" alt="User test" title="User test" />
+</p>
 
 
