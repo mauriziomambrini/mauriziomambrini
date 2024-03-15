@@ -1,14 +1,13 @@
 Hello 👋 I'm Maurizio Mambrini
 ============================
-## UX/UI designer and developer
 
-My mom says I make apps, the grandma that I work on computers, while my dad thinks I enjoy all day.
-All three are partly right: during my day I spend much time at computer, part of my work consist on make apps e often I enjoy on doing it.
-But what I really do every day is **design and develop** interfaces to make people life easier.
+I'm a UX/UI designer and developer, with 6+ years of experience in making people life easier by design and develop digital experiences.
 
-As a **UX/UI designer**, I transform complex operations into easy-tounderstand flows for users. I create libraries of components, design systems, layouts and interfaces to create a coherent user experience.
+I think that in a world full of inputs, the key to making technology truly accessible and people happy is simplicity.
 
-As a **UI developer**, I write HTML, CSS and JavaScript, to create a smooth and consistent experience across devices, transforming designs into component libraries and web/app interfaces
+As **UX/UI designer**, I transform complex processes into intuitive and simple user experiences, creating clear and consistent design systems, layouts, and interfaces, to make every interaction as natural and enjoyable as possible.
+
+As **UI developer**, I apply these same principles by writing code to build fluid and consistent experiences across various devices. I transform designs into component libraries and web/app interfaces, with particular attention to CSS to ensure that every visual element contributes to a harmonious and engaging experience.
 
 ----------------------------
 
@@ -22,7 +21,7 @@ As a **UI developer**, I write HTML, CSS and JavaScript, to create a smooth and 
 ----------------------------
 
 ### Development skills
-<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/html.svg" width="40" height="40" alt="HTML" title="HTML"/></a>
+<a style="display: block"><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/html.svg" width="40" height="40" alt="HTML" title="HTML"/></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/css.svg" width="40" height="40" alt="CSS" title="CSS" /></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sass.svg" width="40" height="40" alt="SASS" title="SASS" /></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/react.svg" width="40" height="40" alt="React JS / React native" title="React JS / React native" /></a>
