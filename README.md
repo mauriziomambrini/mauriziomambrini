@@ -26,7 +26,7 @@ As **UI developer**, I apply these same principles by writing code to build flui
 <img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/css.svg" width="40" height="40" alt="CSS" title="CSS" />
 <img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sass.svg" width="40" height="40" alt="SASS" title="SASS" />
 <img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/react.svg" width="40" height="40" alt="React JS / React native" title="React JS / React native" />
-  <img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/vue" width="40" height="40" alt="Vue JS" title="Vue JS" />
+<img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/vue.svg" width="40" height="40" alt="Vue JS" title="Vue JS" />
 <img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/javascript.svg" width="40" height="40" alt="Javascript" title="Javascript" />
 <img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
 <img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/nextjs.svg" width="40" height="40" alt="Next JS" title="Next JS" />
