@@ -21,7 +21,8 @@ As **UI developer**, I apply these same principles by writing code to build flui
 ----------------------------
 
 ### Development skills
-<a style="display: block"><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/html.svg" width="40" height="40" alt="HTML" title="HTML"/></a>
+<a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/html.svg" width="40" height="40" alt="HTML" title="HTML"/></a>
+
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/css.svg" width="40" height="40" alt="CSS" title="CSS" /></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/sass.svg" width="40" height="40" alt="SASS" title="SASS" /></a>
 <a><img src="https://github.com/mauriziomambrini/mauriziomambrini/blob/main/icons/react.svg" width="40" height="40" alt="React JS / React native" title="React JS / React native" /></a>
