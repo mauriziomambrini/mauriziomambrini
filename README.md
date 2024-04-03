@@ -12,8 +12,7 @@ As **UI developer**, I apply these same principles by writing code to build flui
 ----------------------------
 
 * I'm based in Florence, Italiy 
-* See my website at [pixelcutter.io](https://www.pixelcutter.io/)
-* See my web-cv at [doublem.dev](https://www.doublem.dev/)
+* See my website at [doublem.dev](https://www.doublem.dev/)
 * Contact me at [hello@doublem.dev](mailto:hello@doublem.dev)
 * LinkedIn: [mauriziomambrini](https://www.linkedin.com/in/mauriziomambrini)
 * I'm currently working on [Snowit](http://snowit.ski)
