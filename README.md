@@ -1,7 +1,7 @@
 Hello 👋 I'm Maurizio Mambrini
 ============================
 
-I'm a UX/UI designer and developer, with 6+ years of experience in making people life easier by design and develop digital experiences.
+I'm a UX/UI designer and developer, with 7+ years of experience in making people life easier by design and develop digital experiences.
 
 I think that in a world full of inputs, the key to making technology truly accessible and people happy is simplicity.
 
